@@ -85,7 +85,7 @@ I'm passionate about transforming raw data into meaningful insights that help so
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:Sangameswaranprakash@gmail.com">
+  <a href="gmailto:Sangameswaranprakash@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -100,7 +100,7 @@ I'm passionate about transforming raw data into meaningful insights that help so
 
 📧 Email: Sangameswaranprakash@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/sangameswaran-p
+💼 LinkedIn: https://www.linkedin.com/in/sangameswaran-prakash-sp/
 
 🐙 GitHub: https://github.com/Sangameswaran-P
 

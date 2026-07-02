@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sangameswaran+P;Aspiring+Data+Analyst;AI+%26+Data+Science+Graduate;Python+%7C+SQL+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=HELLO,+I'M+SANGAMESWARAN+P;Aspiring+Data+Analyst;AI+%26+Data+Science+Graduated;Excel+%7C+SQL+Power+BI+%7C+Python+%7C;ANALYZING+TODAY.+IMPROVING+TOMORROW." />
 </p>
 
 # Hi 👋, I'm Sangameswaran P

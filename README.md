@@ -36,14 +36,6 @@ I'm passionate about transforming raw data into meaningful insights that help so
 
 🎯 My goal is to build impactful data-driven solutions that support better business decisions.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sangameswaran-P&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangameswaran-P&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
 ## 🛠️ Technical Skills
 
 **Programming**

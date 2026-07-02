@@ -7,15 +7,15 @@
 ### Aspiring Data Analyst | AI & Data Science Graduate
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
 Welcome to my GitHub!
 
 I'm passionate about transforming raw data into meaningful insights that help solve real-world business problems. I enjoy working with data, discovering patterns, building interactive dashboards, and continuously improving my analytical skills.

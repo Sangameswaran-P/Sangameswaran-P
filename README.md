@@ -7,7 +7,7 @@
 ### Aspiring Data Analyst | AI & Data Science Graduate
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github&theme=dark" />
 </p>
 
 <p align="center">
